@@ -41,3 +41,25 @@ body {
 .first__item {
   margin-top: 5px;
 }
+
+.magic-btn {
+  margin: 0;
+  padding: 10px 40px;
+
+  max-width: 240px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.1;
+}
+
+.site-nav {
+  margin: 20px 0;
+}
+
+.site-nav__item {
+  margin-top: 5px;
+}
+
+.site-nav__link--current {
+  color: blueviolet;
+}
